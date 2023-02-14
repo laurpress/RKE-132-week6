@@ -1,0 +1,15 @@
+/Users/laurpress/Projects/Week6StingsAndArrays/NumberArrays/bin/Debug/net7.0/NumberArrays
+/Users/laurpress/Projects/Week6StingsAndArrays/NumberArrays/bin/Debug/net7.0/NumberArrays.deps.json
+/Users/laurpress/Projects/Week6StingsAndArrays/NumberArrays/bin/Debug/net7.0/NumberArrays.runtimeconfig.json
+/Users/laurpress/Projects/Week6StingsAndArrays/NumberArrays/bin/Debug/net7.0/NumberArrays.dll
+/Users/laurpress/Projects/Week6StingsAndArrays/NumberArrays/bin/Debug/net7.0/NumberArrays.pdb
+/Users/laurpress/Projects/Week6StingsAndArrays/NumberArrays/obj/Debug/net7.0/NumberArrays.csproj.AssemblyReference.cache
+/Users/laurpress/Projects/Week6StingsAndArrays/NumberArrays/obj/Debug/net7.0/NumberArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurpress/Projects/Week6StingsAndArrays/NumberArrays/obj/Debug/net7.0/NumberArrays.AssemblyInfoInputs.cache
+/Users/laurpress/Projects/Week6StingsAndArrays/NumberArrays/obj/Debug/net7.0/NumberArrays.AssemblyInfo.cs
+/Users/laurpress/Projects/Week6StingsAndArrays/NumberArrays/obj/Debug/net7.0/NumberArrays.csproj.CoreCompileInputs.cache
+/Users/laurpress/Projects/Week6StingsAndArrays/NumberArrays/obj/Debug/net7.0/NumberArrays.dll
+/Users/laurpress/Projects/Week6StingsAndArrays/NumberArrays/obj/Debug/net7.0/refint/NumberArrays.dll
+/Users/laurpress/Projects/Week6StingsAndArrays/NumberArrays/obj/Debug/net7.0/NumberArrays.pdb
+/Users/laurpress/Projects/Week6StingsAndArrays/NumberArrays/obj/Debug/net7.0/NumberArrays.genruntimeconfig.cache
+/Users/laurpress/Projects/Week6StingsAndArrays/NumberArrays/obj/Debug/net7.0/ref/NumberArrays.dll

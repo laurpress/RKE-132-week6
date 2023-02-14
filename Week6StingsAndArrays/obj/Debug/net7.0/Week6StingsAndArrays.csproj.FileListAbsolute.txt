@@ -1,0 +1,15 @@
+/Users/laurpress/Projects/Week6StingsAndArrays/Week6StingsAndArrays/bin/Debug/net7.0/Week6StingsAndArrays
+/Users/laurpress/Projects/Week6StingsAndArrays/Week6StingsAndArrays/bin/Debug/net7.0/Week6StingsAndArrays.deps.json
+/Users/laurpress/Projects/Week6StingsAndArrays/Week6StingsAndArrays/bin/Debug/net7.0/Week6StingsAndArrays.runtimeconfig.json
+/Users/laurpress/Projects/Week6StingsAndArrays/Week6StingsAndArrays/bin/Debug/net7.0/Week6StingsAndArrays.dll
+/Users/laurpress/Projects/Week6StingsAndArrays/Week6StingsAndArrays/bin/Debug/net7.0/Week6StingsAndArrays.pdb
+/Users/laurpress/Projects/Week6StingsAndArrays/Week6StingsAndArrays/obj/Debug/net7.0/Week6StingsAndArrays.csproj.AssemblyReference.cache
+/Users/laurpress/Projects/Week6StingsAndArrays/Week6StingsAndArrays/obj/Debug/net7.0/Week6StingsAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurpress/Projects/Week6StingsAndArrays/Week6StingsAndArrays/obj/Debug/net7.0/Week6StingsAndArrays.AssemblyInfoInputs.cache
+/Users/laurpress/Projects/Week6StingsAndArrays/Week6StingsAndArrays/obj/Debug/net7.0/Week6StingsAndArrays.AssemblyInfo.cs
+/Users/laurpress/Projects/Week6StingsAndArrays/Week6StingsAndArrays/obj/Debug/net7.0/Week6StingsAndArrays.csproj.CoreCompileInputs.cache
+/Users/laurpress/Projects/Week6StingsAndArrays/Week6StingsAndArrays/obj/Debug/net7.0/Week6StingsAndArrays.dll
+/Users/laurpress/Projects/Week6StingsAndArrays/Week6StingsAndArrays/obj/Debug/net7.0/refint/Week6StingsAndArrays.dll
+/Users/laurpress/Projects/Week6StingsAndArrays/Week6StingsAndArrays/obj/Debug/net7.0/Week6StingsAndArrays.pdb
+/Users/laurpress/Projects/Week6StingsAndArrays/Week6StingsAndArrays/obj/Debug/net7.0/Week6StingsAndArrays.genruntimeconfig.cache
+/Users/laurpress/Projects/Week6StingsAndArrays/Week6StingsAndArrays/obj/Debug/net7.0/ref/Week6StingsAndArrays.dll
